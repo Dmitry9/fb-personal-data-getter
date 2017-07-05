@@ -8,9 +8,9 @@ Create a signup with Facebook app that grabs the person’s email, first name, a
 ## Install
 
 - Clone this repository
-- Use composer update to install FB library
+- Use *composer update* command to install FB library. About composer: https://getcomposer.org/
 - Copy configuration files from app/config/example to app/config
-- Configure files at app/config (don't add them to git repository)
+- Configure files at app/config (don't add those files to git repository)
 
 ## FB Configuration
 
